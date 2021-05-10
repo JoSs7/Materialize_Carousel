@@ -1,2 +1,2 @@
 # Materialize_Carousel
-Carrousel de Materialize con profundidad
+Materialize Carousel with controllers, image array, depth and interval.
